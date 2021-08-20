@@ -1,0 +1,64 @@
+{
+  "feed": [
+    {
+      "id": "historical",
+      "title": "Fichas para la UTNG",
+      "description": "Fichas para la UTNG",
+      "image": "https://android-tv-classics.firebaseapp.com/collections/historical/ic_channel_historical.jpg",
+      "items": [
+        {
+          "id": "Fichas para la UTNG",
+          "year": 2020,
+          "ratings": null,
+          "duration": 780,
+          "title": "Fichas para la UTNG",
+          "director": "UTNG",
+          "description": "Fichas para la UTNG",
+          "url": "https://firebasestorage.googleapis.com/v0/b/smartng-4da8e.appspot.com/o/y2mate.com%20-%20A%C3%BAn%20no%20tienes%20tu%20ficha%20de%20admisi%C3%B3n%20a%20la%20UTNG_1080p.mp4?alt=media&token=87b36bff-f8a5-4bdd-ac8d-fbb7656a1bd3&fbclid=IwAR3W7NU8cZk6bTcBjfvEB9r-BSyVSprLbAUplHX8CKrdwXallDAJGxZUFLI",
+          "art": "https://firebasestorage.googleapis.com/v0/b/smartng-4da8e.appspot.com/o/logo.png?alt=media&token=556a5dd3-29ab-4d68-bfc3-d9bd5b15bdf5&fbclid=IwAR2xc3-zv-veaKBuWtahdOw26oyvmjt35xZujl2exEWXroyaZ1wqxECftgY"
+        }
+      ]
+    },
+    {
+      "id": "Instalaciones UTNG",
+      "title": "Instalaciones UTNG",
+      "description": "Instalaciones UTNG",
+      "image": "https://android-tv-classics.firebaseapp.com/collections/1910/ic_channel_1910.jpg",
+      "items": [
+        {
+          "id": "Instalaciones UTNG",
+          "year": 1910,
+          "ratings": null,
+          "duration": 960,
+          "title": "Instalaciones UTNG",
+          "director": "UTNG",
+          "description": "Frankenstein, a young medical student, trying to create the perfect human being, instead creates a misshapen monster.",
+          "url": "https://firebasestorage.googleapis.com/v0/b/smartng-4da8e.appspot.com/o/y2mate.com%20-%20CONOCE%20LA%20UTNG_480p.mp4?alt=media&token=d286086f-d50c-4b1c-86f1-ca4a252c2bab&fbclid=IwAR277iRujA3JaWJSCtplSs5k8eLoeZqkHVoYhTxNmdPSo2cN88IZEAaMsus",
+          "art": "https://firebasestorage.googleapis.com/v0/b/smartng-4da8e.appspot.com/o/1200px-Universidad_Tecnologica_del_Norte_de_Guanajuato_(UTNG)%2C_Dolores_Hidalgo%2C_Guanajuato_-_Entrada.jpg?alt=media&token=77bdb71f-a000-4d44-b9e5-57a2bce655f8&fbclid=IwAR1mrCuhMTViKTsdgzE42Ypt0IXcqTVu0pZ86IeFg_o-Rug93d9fPnV5gCE"
+        }
+      ]
+    },
+    {
+      "id": "Carreras",
+      "title": "Carreras",
+      "description": "Carreras",
+      "image": "https://android-tv-classics.firebaseapp.com/collections/chaplin/ic_channel_chaplin.jpg",
+      "items": [
+        {
+          "id": "Carreras",
+          "year": 1914,
+          "ratings": null,
+          "duration": 660,
+          "title": "Carreras",
+          "director": "UTNG",
+          "description": "TIC's",
+          "url": "https://firebasestorage.googleapis.com/v0/b/smartng-4da8e.appspot.com/o/UTNG%20%C3%81rea%20de%20Tecnolog%C3%ADa%20de%20la%20Informaci%C3%B3n%20y%20Comunicaci%C3%B3n.mp4?alt=media&token=9e0ff172-4e5c-4225-8f32-32a6d4756754&fbclid=IwAR3ziPytn5_rfLqW-4xH0_MlXB3N1K3gdC491IOq4jmEbTN3z1ous-NnpDw",
+          "art": "https://firebasestorage.googleapis.com/v0/b/smartng-4da8e.appspot.com/o/ING_TecnologiaInformacion.jpg?alt=media&token=a4ebdeaa-748f-436a-9e48-a12a28dd4211&fbclid=IwAR2uFcOd6_dHmIaT_ZpnfnZo5T3oZUPO9r4X5_8CKS0YJtJHZ9rAztsyRbw"
+        }
+      ]
+    }
+  ],
+  "backgrounds": [
+    "https://firebasestorage.googleapis.com/v0/b/tv-tacho.appspot.com/o/hv.jpg?alt=media&token=407ae2a4-8b36-459e-a435-7664c778171b"
+  ]
+}
